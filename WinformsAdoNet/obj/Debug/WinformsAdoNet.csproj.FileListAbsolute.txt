@@ -1,0 +1,10 @@
+C:\Users\borys.fursov\Desktop\GitHub\WinformsAdoNet\WinformsAdoNet\bin\Debug\WinformsAdoNet.exe.config
+C:\Users\borys.fursov\Desktop\GitHub\WinformsAdoNet\WinformsAdoNet\bin\Debug\WinformsAdoNet.exe
+C:\Users\borys.fursov\Desktop\GitHub\WinformsAdoNet\WinformsAdoNet\bin\Debug\WinformsAdoNet.pdb
+C:\Users\borys.fursov\Desktop\GitHub\WinformsAdoNet\WinformsAdoNet\obj\Debug\WinformsAdoNet.csprojAssemblyReference.cache
+C:\Users\borys.fursov\Desktop\GitHub\WinformsAdoNet\WinformsAdoNet\obj\Debug\WinformsAdoNet.MainForm.resources
+C:\Users\borys.fursov\Desktop\GitHub\WinformsAdoNet\WinformsAdoNet\obj\Debug\WinformsAdoNet.Properties.Resources.resources
+C:\Users\borys.fursov\Desktop\GitHub\WinformsAdoNet\WinformsAdoNet\obj\Debug\WinformsAdoNet.csproj.GenerateResource.cache
+C:\Users\borys.fursov\Desktop\GitHub\WinformsAdoNet\WinformsAdoNet\obj\Debug\WinformsAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\borys.fursov\Desktop\GitHub\WinformsAdoNet\WinformsAdoNet\obj\Debug\WinformsAdoNet.exe
+C:\Users\borys.fursov\Desktop\GitHub\WinformsAdoNet\WinformsAdoNet\obj\Debug\WinformsAdoNet.pdb
